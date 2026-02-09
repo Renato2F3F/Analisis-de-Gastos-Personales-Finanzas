@@ -1,0 +1,20 @@
+personal-finance-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── expenses_raw.csv
+│   └── processed/
+│       └── expenses_clean.csv
+│
+├── scripts/
+│   ├── 01_clean_expenses.py
+│   └── 02_analysis.py
+│
+├── dashboards/
+│   └── finance_dashboard.pbix
+│
+├── reports/
+│   └── finance_summary.xlsx
+│
+├── README.md
+└── requirements.txt
